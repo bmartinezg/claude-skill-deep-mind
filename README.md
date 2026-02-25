@@ -8,10 +8,10 @@ When you work on any sibling project, Claude already knows the shared context â€
 
 ### 1. Download the skill file
 
-Download `deep-mind.skill` from the [latest release](https://github.com/bmartinezg/deep-mind/releases) or clone the repo:
+Download `deep-mind.skill` from the [latest release](https://github.com/bmartinezg/claude-skill-deep-mind/releases) or clone the repo:
 
 ```bash
-git clone https://github.com/bmartinezg/deep-mind.git
+git clone https://github.com/bmartinezg/claude-skill-deep-mind.git
 ```
 
 ### 2. Install in Claude Code
